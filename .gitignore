@@ -1,0 +1,25 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+android/**/build/
+
+# IDE
+.idea/
+.vscode/
+
+# File rahasia
+.env
+.env.*
+!.env.example
+
+/secrets.json
+/secrets.json
